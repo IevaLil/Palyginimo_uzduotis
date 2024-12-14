@@ -11,3 +11,6 @@ https://www.quora.com/What-do-you-know-about-the-6800-microprocessor?top_ans=784
 https://www.cpu-world.com/Arch/4040.html
 https://en.wikipedia.org/wiki/Intel_4004
 http://www.intel4004.com/qa4004.htm
+https://www.cpu-world.com/Arch/6800.html
+https://www.cpu-world.com/Arch/4040.html
+https://translate.google.com/?sl=en&tl=lt&op=translate
