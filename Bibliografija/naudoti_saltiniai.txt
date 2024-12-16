@@ -21,3 +21,4 @@ http://www.8bit-era.cz/6800.html
 https://deramp.com/downloads/mfe_archive/050-Component%20Specifications/Motorola/CPUs/The%20Motorola%206800%20Instruction%20Set%20(Byte)(January%201978).pdf
 https://pastraiser.com/cpu/i4040/i4040.html
 https://chatgpt.com/share/6760793d-1e40-800c-93bc-8c4bc8c497ff
+https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins
