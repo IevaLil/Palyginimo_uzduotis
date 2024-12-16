@@ -15,3 +15,8 @@ https://www.cpu-world.com/Arch/6800.html
 https://www.cpu-world.com/Arch/4040.html
 https://translate.google.com/?sl=en&tl=lt&op=translate
 https://en.wikipedia.org/wiki/Carry_flag
+https://www.bou.lt/theory/computerNonRisc.pdf
+https://www.quora.com/Does-Intel-use-CISC-architecture-or-RISC-architecture-in-todays-processors
+http://www.8bit-era.cz/6800.html
+https://deramp.com/downloads/mfe_archive/050-Component%20Specifications/Motorola/CPUs/The%20Motorola%206800%20Instruction%20Set%20(Byte)(January%201978).pdf
+https://pastraiser.com/cpu/i4040/i4040.html
