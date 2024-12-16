@@ -22,3 +22,7 @@ https://deramp.com/downloads/mfe_archive/050-Component%20Specifications/Motorola
 https://pastraiser.com/cpu/i4040/i4040.html
 https://chatgpt.com/share/6760793d-1e40-800c-93bc-8c4bc8c497ff
 https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins
+https://thecodeacademy.co.uk/docs/electronics/microprocessors/the-motorola-6800-microprocessor-a-comprehensive-overview/
+https://en.wikichip.org/wiki/intel/mcs-40/4040
+https://www.scribd.com/presentation/416387297/Intel-4004-and-Intel-4040
+https://en.wikipedia.org/wiki/Intel_4040
