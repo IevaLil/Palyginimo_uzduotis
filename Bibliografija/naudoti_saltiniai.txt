@@ -26,3 +26,4 @@ https://thecodeacademy.co.uk/docs/electronics/microprocessors/the-motorola-6800-
 https://en.wikichip.org/wiki/intel/mcs-40/4040
 https://www.scribd.com/presentation/416387297/Intel-4004-and-Intel-4040
 https://en.wikipedia.org/wiki/Intel_4040
+https://chatgpt.com/share/6761bb0e-adc4-800c-80ae-7e114b7f22cc
